@@ -7,23 +7,6 @@ This repository contains my solutions for the **Advent of Code 2025** programmin
 
 All solutions are written in **Python** and organized by day.
 
-## 📂 Structure
-
-2025/
-├── day01/
-│ └── solution.py
-| └── input.txt
-├── day02/
-│ └── solution.py
-| └── input.txt
-├── day03/
-│ └── solution.py
-| └── input.txt
-└── ...
-
-markdown
-Copy code
-
 ## 🧠 Notes
 
 - Each solution expects its input from a local file
